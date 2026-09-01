@@ -1,0 +1,14 @@
+{
+  "name": "akram-ai-telegram-bot",
+  "version": "1.0.0",
+  "private": true,
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "grammy": "^1.30.0"
+  }
+}
